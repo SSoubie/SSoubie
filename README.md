@@ -1,7 +1,7 @@
 # Alo Alo! 👋 I'm Santiago
 
 + 📖 Political Scientist (UTDT), Urbanist (UBA/UTDT) & Social Data Scientist (UNSAM).
-+ 💻 Working at the [National Directorate of Markets and Statistics](https://www.yvera.tur.ar/sinta/) of the [Undersecretary of Tourism of Argentina](https://www.argentina.gob.ar/interior/turismo).
++ 💻 Working at the [National Directorate of Markets and Statistics](https://www.yvera.tur.ar/sinta/) of the [Undersecretary of Tourism of Argentina.](https://www.argentina.gob.ar/interior/turismo).
 + 🍎 Graduate Teaching Assistant at [UTDT](https://www.utdt.edu/)
   + Data Science
   + Logic & Methodology.
@@ -14,8 +14,8 @@ This is Data's, Data's, Data's World 🌐
 
 
 ## Projects
-+ [Esto podría ser una plaza: modelo de localización - asignación para la refuncionalización verde de infraestructuras vacantes](https://github.com/Apolo-21/atlas_espacios_verdes_CABA)
-+ [La política de la Inteligencia Artificial: sus usos en el sector público y sus implicancias regulatorias](https://www.cippec.org/wp-content/uploads/2019/10/185-DT-Abdala-Lacroix-y-Soubie-La-pol%C3%ADtica-de-la-Inteligencia-Artificial-octubre-2019.pdf)
++ [Esto podría ser una plaza: modelo de localización - asignación para la refuncionalización verde de infraestructuras vacantes.](https://github.com/Apolo-21/atlas_espacios_verdes_CABA)
++ [La política de la Inteligencia Artificial: sus usos en el sector público y sus implicancias regulatorias.](https://www.cippec.org/wp-content/uploads/2019/10/185-DT-Abdala-Lacroix-y-Soubie-La-pol%C3%ADtica-de-la-Inteligencia-Artificial-octubre-2019.pdf)
 
 
 ## Languages & Tools
