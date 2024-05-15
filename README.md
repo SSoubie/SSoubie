@@ -3,7 +3,7 @@
 + 📖 Political Scientist (UTDT), Urbanist (UBA/UTDT) & Social Data Scientist (UNSAM).
 + 💻 Working at the [National Directorate of Markets and Statistics](https://www.yvera.tur.ar/sinta/) of the [Undersecretary of Tourism of Argentina.](https://www.argentina.gob.ar/interior/turismo).
 + 🍎 Graduate Teaching Assistant at [UTDT](https://www.utdt.edu/)
-  + Data Science
+  + Data Science.
   + Logic & Methodology.
   + Political Science.
 + 🌱 I'm currently learning QGIS, Power BI & SQL.
