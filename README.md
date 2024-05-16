@@ -14,8 +14,8 @@ This is Data's, Data's, Data's World 🌐
 
 
 ## Projects
-+ [Esto podría ser una plaza: modelo de localización - asignación para la refuncionalización verde de infraestructuras vacantes.](https://github.com/Apolo-21/atlas_espacios_verdes_CABA)
-+ [La política de la Inteligencia Artificial: sus usos en el sector público y sus implicancias regulatorias.](https://www.cippec.org/wp-content/uploads/2019/10/185-DT-Abdala-Lacroix-y-Soubie-La-pol%C3%ADtica-de-la-Inteligencia-Artificial-octubre-2019.pdf)
++ [Esto podría ser una plaza.](https://github.com/Apolo-21/atlas_espacios_verdes_CABA)
++ [La política de la Inteligencia Artificial.](https://www.cippec.org/wp-content/uploads/2019/10/185-DT-Abdala-Lacroix-y-Soubie-La-pol%C3%ADtica-de-la-Inteligencia-Artificial-octubre-2019.pdf)
 
 
 ## Languages & Tools
