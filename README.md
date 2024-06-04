@@ -10,7 +10,7 @@
 + 🏙️ Data driven solutions for the building of sustainable and livable urban areas.
 + 🏢 Open Data, Open Government & Open Knowledge.
 
-This is Data's, Data's, Data's World 🌐    
+This is a Data's, Data's, Data's World 🌐    
 
 
 ## Projects
