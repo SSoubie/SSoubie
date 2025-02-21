@@ -1,8 +1,9 @@
 # Alo Alo! 👋 I'm Santiago
 
 + 📖 Political Scientist (UTDT), Urban Economist (UBA/UTDT) & Social Data Scientist (UNSAM).
-+ 💻 Working at the [National Directorate of Markets and Statistics](https://www.yvera.tur.ar/sinta/) of the [Undersecretary of Tourism of Argentina](https://www.argentina.gob.ar/interior/turismo).
++ 💻 [Open Data Director] (https://www.argentina.gob.ar/datos-abiertos) at the [Secretary of Innovation, Science & Technology of Argentina]([https://www.argentina.gob.ar/interior/turismo](https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia)).
 + :mag_right: Member of the Management Council of [IDERA](https://www.idera.gob.ar/).
++ 💻 Ex [SINTA](https://www.yvera.tur.ar/sinta/) at the [Undersecretary of Tourism of Argentina](https://www.argentina.gob.ar/interior/turismo).
 + 🍎 Graduate Teaching Assistant at [UTDT](https://www.utdt.edu/):
   + Data Science.
   + Logic & Methodology.
