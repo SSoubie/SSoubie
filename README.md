@@ -5,11 +5,11 @@
 + 💻 Ex [Open Data Director](https://www.argentina.gob.ar/datos-abiertos) at the [Secretary of Innovation, Science & Technology of Argentina](https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia).
 + 💻 Ex [SINTA](https://www.yvera.tur.ar/sinta/) at the [Undersecretary of Tourism of Argentina](https://www.argentina.gob.ar/interior/turismo).
 + :mag_right: Member of the Management Council of [IDERA](https://www.idera.gob.ar/).
-+ 🍎 Graduate Teaching Assistant at [UTDT](https://www.utdt.edu/):
++ 🍎 Professor at [UTDT](https://www.utdt.edu/):
   + Data Science.
   + Logic & Methodology.
   + Political Science.
-+ 🌱 I'm currently learning QGIS & Pythoon.
++ 🌱 I'm currently learning Python, Java, HTML & GEE.
 + 🏙️ Data driven solutions for the building of sustainable and livable urban areas.
 + 🏢 Open Data, Open Government & Open Knowledge.
 
